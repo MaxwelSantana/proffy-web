@@ -1,5 +1,5 @@
 :root {
-    font-size: 60%;
+    font-size: 50%;
     
     --color-background: #F0F0F7;
     --color-primary-lighter: #9871F5;
@@ -56,6 +56,6 @@ textarea {
 
 @media (min-width: 700px) {
     :root {
-        font-size: 62.5%;
+        font-size: 52.5%;
     }
 }
